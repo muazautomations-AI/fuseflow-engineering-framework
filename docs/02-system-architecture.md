@@ -10,7 +10,7 @@ This modular approach improves scalability, maintainability, and allows new busi
 
 ---
 
-# Architecture Overview
+# Architecture Overview 
 
 ```
                     USER
