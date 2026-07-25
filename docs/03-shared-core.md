@@ -83,4 +83,4 @@ The Shared Core follows these principles:
 
 **Version:** 1.0.0
 
-**Status:** Public Framework
+**Status:** Public Framework 
